@@ -41,4 +41,7 @@ export default defineComponent({
 .stop{
     color: red;
 }
+.close{
+    color: red;
+}
 </style>
