@@ -16,7 +16,7 @@
 
 <script lang="ts">
 import { defineComponent, PropType } from 'vue';
-import ITarefa from '../interfaces/ITarefas'
+import ITarefa from '../interfaces/ITarefa'
 import Cronometro from './Cronometro.vue';
 import Box from './Box.vue';
 import Botao from './Botao.vue';
